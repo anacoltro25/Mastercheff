@@ -21,7 +21,7 @@ body {
 }
 
 .principal {
-    background-image: url("img/MasterChef_Brasil.jpg");
+    background-image: url("MasterChef_Brasil.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     align-items: center;
